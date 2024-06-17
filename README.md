@@ -1,14 +1,10 @@
-This Python Script functions to pull all coordinates from any kml document, and output them to the user.
-|-------------------------------------------------------------------------------------------------------|
-|                                                                                                       |
-|                                                                                                       |
-| usage: KML_Coords_Grabber.py [-h] -k {path_to_kml}                                                    |                                     
-|                                                                                                       |
-| Scrapes all coordinate values from a KML file.                                                        | 
-|                                                                                                       |
-| options:                                                                                              |
-|   -h, --help            show this help message and exit                                               |
-|   -k {path_to_kml}, --kml {path_to_kml}                                                               |
-|                         The path of the input KML file                                                |
-|                                                                                                       |
-|_______________________________________________________________________________________________________|
+This script pulls all coordinates from the given KML file, and outputs them to the user. 
+
+Command Line:
+  -Command = [python | py] ./KML_Coords_Grabber.py -kml {PATH_TO_KML}
+
+  -Options:
+    + [-h | --help] --> displays the help menu for this script
+    + {-kml | --kml} --> a required input; this is the kml file you wish to pull the coords from
+
+  
