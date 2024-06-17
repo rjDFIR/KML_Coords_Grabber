@@ -11,6 +11,6 @@
   ### Options:
   
     - [-h | --help] --> displays the help menu for this script
-    - {-kml | --kml} --> a required input; this is the kml file you wish to pull the coords from
+    - {-k | --kml} --> a required input; this is the kml file you wish to pull the coords from
 
   
