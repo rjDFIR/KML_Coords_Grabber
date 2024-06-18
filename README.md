@@ -12,6 +12,6 @@
   #### []=Optional {}=Required
   
     - [-h | --help] --> displays the help menu for this script
-    - {-k | --kml} --> a required input; this is the kml file you wish to pull the coords from
+    - {-k | --kml} --> a required input; after entering this option, type the path of your KML file
 
   
